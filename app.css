@@ -19,3 +19,15 @@ body{
     background-color: rgb(76, 29, 96);
     border-radius: 0.8rem;
 }
+input{
+    height: 1.5rem;
+    width: 10.5rem;
+    border: 2px solid black;
+    border-radius: 1rem;
+    padding: 0.4rem;
+    font-size: 1rem;
+
+}
+label{
+    font-size: 1.5rem;
+}
