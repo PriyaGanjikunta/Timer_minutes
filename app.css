@@ -1,0 +1,21 @@
+.hd1{
+    color: rgb(31, 100, 100);
+    font-style: italic;
+    font-size: 400%;
+}
+body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.time{
+    font-size: 350%;
+}
+.btn{
+    width: 10%;
+    height: 6vh;
+    color: white;
+    background-color: rgb(76, 29, 96);
+    border-radius: 0.8rem;
+}
